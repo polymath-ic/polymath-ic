@@ -1,9 +1,7 @@
-i build stuff 
+I build stuff (mostly apps!)
 ## TOOLS I BUILD WITH
-- Flutter
-- Riverpod
+- Dart & flutter
 - Vs code
-- Android Studio
-- Fire base
-- SQlite
-- Basically any other thing to make my app look juicy !
+- Android studio
+Vibe with me on [twitter](https://twitter.com/LilMations)
+
